@@ -5,3 +5,4 @@ How to use:
 2) Place them in src folder.
 3) Run makepkg
 4) Use sudo pacman -U vmware-module-update-xxxxxx.pkg.tar.zst when needed.
+![image](https://github.com/hk3f/vmware-host-modules-arch/blob/main/doc/693958-20201229130600272-1614611427.png)
